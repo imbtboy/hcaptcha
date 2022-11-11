@@ -9,3 +9,5 @@ This is an API that can crack hcaptcha of any difficulty score. For example, you
 {"success":true,"message":"success","data":null,"captcha_key":"P0_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1................f--9VPhVx56UXNp-pb5Mhick2JMp3Y-dg6Mgo1eNiLk"}
 
 contact me: https://t.me/shineho
+
+update: 2022-11-11
