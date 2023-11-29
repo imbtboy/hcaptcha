@@ -10,4 +10,4 @@ This is an API that can crack hcaptcha of any difficulty score. For example, you
 
 contact me: https://t.me/shineho
 
-update: 2023-08-24
+update: 2023-11-29
